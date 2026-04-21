@@ -67,7 +67,7 @@ export default function Footer() {
         {/* BOTTOM BAR */}
         <div className="border-t border-green-900/30 mt-12 pt-6 flex flex-col md:flex-row justify-between items-center text-xs text-white/50 gap-3">
 
-          <p>© {new Date().getFullYear()} Perfect General Maintenance</p>
+          <p>© {new Date().getFullYear()} Perfect General Maintenance. Developed by Devntom Solutions</p>
 
           <div className="flex gap-5">
             <Link href="/" className="hover:text-green-400 transition">Home</Link>
